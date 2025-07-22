@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.2.4",
-  "update_required": true,
+  "latest_version": "1.2.5",
+  "update_required": false,
   "play_store_url": "https://creatorware.itch.io/grow-a-garden-stock-notifier",
   "app_store_url": "https://apps.apple.com/app/idYOUR_APP_ID"
 }
