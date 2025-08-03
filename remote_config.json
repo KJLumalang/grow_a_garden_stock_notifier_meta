@@ -1,4 +1,4 @@
 {
-  "unlock_ad_tabs": true,           // Set to true to unlock ad tabs for ALL platforms
-  "show_extend_unlock_button": true, // Set to true to show the extend unlock button
+  "unlock_ad_tabs": true,  
+  "show_extend_unlock_button": true,
 }
