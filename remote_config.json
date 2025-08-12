@@ -1,7 +1,7 @@
 {
   "unlock_ad_tabs": true,
   "show_extend_unlock_button": false,
-  "maintenance_mode": false,
+  "maintenance_mode": true,
   "maintenance_message": "We're updating our servers to bring you better performance! Expected downtime: 30 minutes.",
   "server_config": {
     "primary_server": "http://34.130.7.178:3000",
